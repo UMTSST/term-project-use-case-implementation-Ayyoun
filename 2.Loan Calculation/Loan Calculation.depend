@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1525516167 source:d:\university stuff\semester 4\software engineering\project\use case coding\loan calculation\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<math.h>
+
