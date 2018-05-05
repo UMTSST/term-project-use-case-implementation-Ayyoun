@@ -2,6 +2,9 @@
 #include <string>
 #include <fstream>
 #include <math.h>
+
+
+
 using namespace std;
 
 class loan_calculation
