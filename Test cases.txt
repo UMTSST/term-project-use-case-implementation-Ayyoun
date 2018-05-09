@@ -1,0 +1,21 @@
+TEST_CASE("Check Payment-per-month",[PPM])
+{
+  REQUIRE(PPM<amount)
+ if(amount<PPM)
+{
+  l.calculation();
+}
+else 
+cout<<"PPM CALCULATED SUCESSFULLY"<<endl;
+
+
+TEST_CASE("CHECK UPDATED AMOUNT",[remain])
+{
+     REQUIRE(amount>remain)
+  if(remain>amount)
+  {
+    l.update(amount);
+   else
+    cout<<"amount updated sucessfully"<<endl;
+
+   
